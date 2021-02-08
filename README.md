@@ -9,7 +9,7 @@ More parts and decoratives will be added over time and I am always open for sugg
 
 Check out my [Official Website](https://minotorious.github.io/)
 
-For updates on my projects follow me on [Twitter](https://twitter.com/theOneTrueMino), [Instagram](https://www.instagram.com/minotorious), & [Facebook](https://www.facebook.com/Minotorious.Official)
+Follow me on [Twitter](https://twitter.com/theOneTrueMino), [Instagram](https://www.instagram.com/minotorious), & [Facebook](https://www.facebook.com/Minotorious.Official)
 
 Join me at [The Penguin Grounds (Discord Server)](https://discord.com/invite/AMMcH5a)
 
