@@ -5,6 +5,8 @@ More parts and decoratives will be added over time and I am always open for sugg
 
 **Important Note: This mod is mutually exclusive with Winter Wonderland, if one loads the second in the list will not load!**
 
+# To stay updated with my upcoming projects:
+
 Check out my [Official Website](https://minotorious.github.io/)
 
 For updates on my projects follow me on [Twitter](https://twitter.com/theOneTrueMino), [Instagram](https://www.instagram.com/minotorious), & [Facebook](https://www.facebook.com/Minotorious.Official)
