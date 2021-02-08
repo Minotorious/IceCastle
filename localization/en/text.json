@@ -1,0 +1,25 @@
+{
+	"": {
+        "ICE_CASTLE_MONUMENT_NAME": "Ice Castle",
+        "ICE_CASTLE_MONUMENT_DESC": "A Snowy Ice Castle",
+        "ICE_CASTLE_RAMPART_PATHS_CATEGORY": "Ramparts",
+        "ICE_CASTLE_TOWERS_CATEGORY": "Towers",
+        "ICE_CASTLE_DECORATIVES_CATEGORY": "Decoratives",
+        
+        "RAMPART_PATH_STRAIGHT_SCALABLE_PART_NAME": "Straight Rampart",
+        "RAMPART_PATH_STRAIGHT_HALF_SCALABLE_PART_NAME": "Straight Rampart Half",
+        "RAMPART_PATH_CORNER_45_SHARP_SCALABLE_PART_NAME": "45° Angle Rampart",
+        "RAMPART_PATH_CORNER_60_SHARP_SCALABLE_PART_NAME": "60° Angle Rampart",
+        "RAMPART_PATH_CORNER_90_SHARP_SCALABLE_PART_NAME": "90° Angle Rampart",
+        "RAMPART_PATH_CORNER_90_SHARP_HALF_SCALABLE_PART_NAME": "90° Angle Rampart Half",
+        "RAMPART_PATH_CORNER_120_SHARP_SCALABLE_PART_NAME": "120° Angle Rampart",
+        "RAMPART_PATH_CORNER_135_SHARP_SCALABLE_PART_NAME": "135° Angle Rampart",
+        "RAMPART_PATH_CROSS_JUNCTION_SHARP_SCALABLE_PART_NAME": "Cross Junction Rampart",
+        "RAMPART_PATH_T_JUNCTION_SHARP_SCALABLE_PART_NAME": "T Junction Rampart",
+        
+        "RAMPART_TOWER_SQUARE_MEDIUM_SCALABLE_PART_NAME": "Square Tower Rampart",
+        
+        "CRENELLATION_SPIKES_PART_NAME": "Crenellation Spikes", 
+        "WALL_SPIKES_PART_NAME": "Wall Spikes"
+    }
+}
